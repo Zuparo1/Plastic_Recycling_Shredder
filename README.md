@@ -23,7 +23,7 @@ All files, documentation, and build guides are included to help you fabricate an
 - 🧱 [STEP](/STEP) files for the Shredder, gearbox, and housing
 - ⚙️ [Fusion 360](Fusion Models) files
 - 💡 Arduino code and basic wiring (if using electronics)
-- 🧾 [Bill of materials](Bill of Materials) with sourcing notes
+- 🧾 [Bill of materials](/Bill of Materials) with sourcing notes
 
 ---
 
