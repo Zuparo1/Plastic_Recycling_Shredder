@@ -63,7 +63,7 @@ Full details in the [manual](Manual.pdf).
 The shredder underwent multiple iterations:
 - **Axle upgrades** from PLA to ABS for added strength
 - **Gearbox stress-tested**, PC+ used for heat resistance
-- Modular design adapted to user feedback from interviews and test builds
+- Modular design adapted to user feedback
 
 See full details in the [System Evaluation](report.pdf).
 
