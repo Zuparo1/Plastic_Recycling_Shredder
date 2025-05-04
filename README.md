@@ -20,11 +20,10 @@ All files, documentation, and build guides are included to help you fabricate an
 ## 📦 What's Included
 
 - 📘 [Build Manual](Manual.pdf): Step-by-step instructions with safety tips and fabrication guidelines
-- 🧱 3D models and STL files for the blades, spacers, gearbox, and housing
-- 🔩 Laser cut files (DXF/SVG) for the frame and enclosure
-- ⚙️ Fusion 360 / CAD source files
+- 🧱 [STEP](/STEP) files for the Shredder, gearbox, and housing
+- ⚙️ [Fusion 360](Fusion Models) files
 - 💡 Arduino code and basic wiring (if using electronics)
-- 🧾 Bill of materials with sourcing notes
+- 🧾 [Bill of materials](Bill of Materials) with sourcing notes
 
 ---
 
