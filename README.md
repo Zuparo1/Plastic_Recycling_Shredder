@@ -53,19 +53,6 @@ Full details in the [manual](Manual.pdf).
 3. Extrude into new filament
 4. Repeat 🌀
 
-![](Images/lifecycle.png)
-
----
-
-## 🧪 Tested and Improved
-
-The shredder underwent multiple iterations:
-- **Axle upgrades** from PLA to ABS for added strength
-- **Gearbox stress-tested**, PC+ used for heat resistance
-- Modular design adapted to user feedback
-
-See full details in the [System Evaluation](report.pdf).
-
 ---
 
 ## 📜 License
