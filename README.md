@@ -19,7 +19,7 @@ All files, documentation, and build guides are included to help you fabricate an
 
 ## 📦 What's Included
 
-- 📘 [Build Manual](manual.pdf): Step-by-step instructions with safety tips and fabrication guidelines
+- 📘 [Build Manual](Manual.pdf): Step-by-step instructions with safety tips and fabrication guidelines
 - 🧱 3D models and STL files for the blades, spacers, gearbox, and housing
 - 🔩 Laser cut files (DXF/SVG) for the frame and enclosure
 - ⚙️ Fusion 360 / CAD source files
@@ -43,7 +43,7 @@ All files, documentation, and build guides are included to help you fabricate an
 - Bolts and nuts (M3–M6)
 - Gear motor (~\$40, or cheaper alternatives)
 
-Full details in the [manual](manual.pdf).
+Full details in the [manual](Manual.pdf).
 
 ---
 
@@ -89,7 +89,7 @@ Feel free to fork, remix, or submit pull requests for improvements! We welcome:
 
 Made by  
 - Torstein Mo Kirkeluten – `torstemk@hiof.no`  
-- Jacob Holth – `jacobh@hiof.no`  
+- Jacob Holth – `jacobh@hiof.no` /  `Zuparo1@hotmail.com`
 - Moritz P. Nedland Halkjelsvik – `mphalkje@hiof.no`
 
 Faculty of Computer Science, Engineering and Economics  
