@@ -2,6 +2,8 @@
 
 **A modular, self-fabricated shredder designed for labs, makerspaces, and classrooms around the world. Built with affordable materials and hobby-grade tools, this project supports circularity, sustainability, and accessible engineering.**
 
+Animations: 
+https://drive.google.com/drive/folders/1GTDH_LksxOAHPd8L4uIryJ2b2BNffAHZ?usp=sharing
 ---
 
 ##  About the Project
