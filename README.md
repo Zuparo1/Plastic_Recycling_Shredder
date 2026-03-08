@@ -4,30 +4,30 @@
 
 ---
 
-## 🔧 About the Project
+##  About the Project
 
 As 3D printing becomes more widespread, so does its waste—failed prints, supports, and excess prototypes. This open-source shredder enables small-scale recycling of that plastic into material suitable for extrusion into new filament.
 
 Our design prioritizes:
-- 🛠️ **Making** – We emphasize fabrication, not just CAD.
-- 🌍 **Accessibility** – Built from globally available tools and materials.
-- ♻️ **Sustainability** – Aligned with UN SDG 12 for circular production.
+-  **Making** – We emphasize fabrication, not just CAD.
+-  **Accessibility** – Built from globally available tools and materials.
+-  **Sustainability** – Aligned with UN SDG 12 for circular production.
 
 All files, documentation, and build guides are included to help you fabricate and adapt the shredder in your own lab or makerspace.
 
 ---
 
-## 📦 What's Included
+##  What's Included
 
-- 📘 [Build Manual](Manual.pdf): Step-by-step instructions with safety tips and fabrication guidelines
-- 🧱 [STEP](/STEP) files for the Shredder, gearbox, and housing
-- ⚙️ [Fusion 360](Fusion%20Models) files
-- 💡 [Arduino code](ArduinoCode/ArduinoDigiFabFinal/ArduinoDigiFabFinal.ino)
-- 🧾 [Bill of materials](/Bill%20of%20Materials) with sourcing notes
+-  [Build Manual](Manual.pdf): Step-by-step instructions with safety tips and fabrication guidelines
+-  [STEP](/STEP) files for the Shredder, gearbox, and housing
+-  [Fusion 360](Fusion%20Models) files
+-  [Arduino code](ArduinoCode/ArduinoDigiFabFinal/ArduinoDigiFabFinal.ino)
+-  [Bill of materials](/Bill%20of%20Materials) with sourcing notes
 
 ---
 
-## 🧰 What You'll Need
+##  What You'll Need
 
 **Tools:**
 - Laser cutter
@@ -46,22 +46,22 @@ Full details in the [manual](Manual.pdf).
 
 ---
 
-## 🔄 How It Works
+##  How It Works
 
 1. Print your model
 2. Shred failed or excess prints into pellets
 3. Extrude into new filament
-4. Repeat 🌀
+4. Repeat 
 
 ---
 
-## 📜 License
+##  License
 
 This project is released under the **CERN-OHL-W v2** license, allowing you to use, modify, and distribute it freely, with the condition that improvements are shared under the same license.
 
 ---
 
-## ✨ Contributions Welcome
+##  Contributions Welcome
 
 Feel free to fork, remix, or submit pull requests for improvements! We welcome:
 - Translations
